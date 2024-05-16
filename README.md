@@ -66,27 +66,27 @@ Various machine learning models are trained and evaluated using the processed da
 
 ### Naive Bayes Classifier
 The Multinomial Naive Bayes classifier is trained and evaluated for text classification.
-- **Accuracy:** 91.06%
-- **F1-score:** 10.46%
-- **Detailed classification report and confusion matrix are generated in the script output.**
+- **Accuracy:** 97%
+- **F1-score:** 99%
+
 
 ### K-Nearest Neighbors Classifier
 The K-Nearest Neighbors classifier with `n_neighbors=2` is trained and evaluated for text classification.
-- **Accuracy:** 91.06%
-- **F1-score:** 10.46%
-- **Detailed classification report and confusion matrix are generated in the script output.**
+- **Accuracy:** 93%
+- **F1-score:** 96%
+
 
 ### Decision Tree Classifier
 The Decision Tree classifier is trained and evaluated for text classification.
-- **Accuracy:** 91.06%
-- **F1-score:** 10.46%
-- **Detailed classification report and confusion matrix are generated in the script output.**
+- **Accuracy:** 97%
+- **F1-score:** 98%
+
 
 ### Random Forest Classifier
 The Random Forest classifier is trained and evaluated for text classification.
-- **Accuracy:** 91.06%
-- **F1-score:** 10.46%
-- **Detailed classification report and confusion matrix are generated in the script output.**
+- **Accuracy:** 98%
+- **F1-score:** 99%
+
 
 ## **Contributing**
 
