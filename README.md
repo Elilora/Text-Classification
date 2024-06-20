@@ -15,7 +15,7 @@ This project aims to classify text messages as spam or ham (non-spam) using mach
   - [Decision Tree Classifier](#decision-tree-classifier)
   - [Random Forest Classifier](#random-forest-classifier)
 - [Contributing](#contributing)
-- [License](#license
+
 
 ## **Installation**
 
